@@ -4,6 +4,7 @@ cwavatar
 ## Require
 
 - ImageMagick
+
   If you installed brew, try this:
 
 ```bash
