@@ -1,6 +1,18 @@
 cwavatar
 ========
 
+## What is cwavatar ?
+
+画像の左下にChatWorkの画像を貼っつけてくれます。
+
+before:
+
+![before](./example/before.png)
+
+after:
+
+![after](./example/after.png)
+
 ## Require
 
 - ImageMagick
